@@ -10,16 +10,16 @@ andjel@archbtw:~$ neofetch
                    -`                     ​​ ​ ​ ​ ​ ​ ​​     andjel@archbtw 
                   .o+`                  ┌──────────────────────────────────────┐ 
                  `ooo/                    Operating System 
-                `+oooo:                   ​​ ​ os >​ Arch Linux 
-               `+oooooo:                  ​​ ​ wm >​ i3 
+                `+oooo:                   ​​ ​ OS >​ Arch Linux 
+               `+oooooo:                  ​​ ​ WM >​ i3 
                -+oooooo+:                 ​ ​ term >​ kitty 
              `/:-:++oooo+:                ​ ​ shell >​ zsh 
             `/++++/+++++++:               ​ ​ os-ver >​ 6.9.3-arch1-1 
            `/++++++++++++++:              ​ ​ packages >​ 825 
           `/+++ooooooooooooo/`            Hardware 
-         ./ooosssso++osssssso+`           ​​ ​ cpu >​ i5-4670 
-        .oossssso-````/ossssss+`          ​​ ​ gpu >​ AMD RX 5500 XT 
-       -osssssso.      :ssssssso.         ​​ ​ ram >​ 2.21GiB / 15.56GiB (14%) 
+         ./ooosssso++osssssso+`           ​​ ​ CPU >​ i5-4670 
+        .oossssso-````/ossssss+`          ​​ ​ GPU >​ AMD RX 5500 XT 
+       -osssssso.      :ssssssso.         ​​ ​ RAM >​ 2.21GiB / 15.56GiB (14%) 
       :osssssss/        osssso+++.        ​​ ​ screen >​ 1920x1080 @ 144.00Hz 
      /ossssssss/        +ssssooo/-        ETC 
    `/ossssso+/:-        -:/+osssso+-      ​​ ​ spotify >​ Billie Eilish - ilomilo 
