@@ -18,9 +18,9 @@ andjel@archbtw:~$ neofetch
            `/++++++++++++++:              ​ ​ packages >​ 825 
           `/+++ooooooooooooo/`            Hardware 
          ./ooosssso++osssssso+`           ​​ ​ cpu >​ i5-4670 
-        .oossssso-````/ossssss+`          ​​ ​ gpu >​ GeForce GTX 780 
+        .oossssso-````/ossssss+`          ​​ ​ gpu >​ AMD RX 5500 XT 
        -osssssso.      :ssssssso.         ​​ ​ ram >​ 2.21GiB / 15.56GiB (14%) 
-      :osssssss/        osssso+++.        ​​ ​ screen >​ 1920x1080 @ 60.00Hz 
+      :osssssss/        osssso+++.        ​​ ​ screen >​ 1920x1080 @ 144.00Hz 
      /ossssssss/        +ssssooo/-        ETC 
    `/ossssso+/:-        -:/+osssso+-      ​​ ​ spotify >​ Billie Eilish - ilomilo 
   `+sso+:-`                 `.-/+oso:   └──────────────────────────────────────┘ 
