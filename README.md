@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://github.com/NoiceFrog">
+  <a href="https://github.com/anAndjel">
   <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
 ```console
-alex@archbtw:~$ neofetch
-                   -`                     ​​ ​ ​ ​ ​ ​ ​​     alex@archbtw 
+andjel@archbtw:~$ neofetch
+                   -`                     ​​ ​ ​ ​ ​ ​ ​​     andjel@archbtw 
                   .o+`                  ┌──────────────────────────────────────┐ 
                  `ooo/                    Operating System 
                 `+oooo:                   ​​ ​ os >​ Arch Linux 
@@ -35,8 +35,8 @@ alex@archbtw:~$ neofetch
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/NoiceFrog" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=NoiceFrog&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+  <a href="github.com/anAndjel" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=anAndjel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
  </samp>
@@ -52,15 +52,15 @@ alex@archbtw:~$ neofetch
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/NoiceFrog/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoiceFrog&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/anAndjel/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anAndjel&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="Noice :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/NoiceFrog/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoiceFrog&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/anAndjel/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anAndjel&theme=gruvbox&layout=compact&hide_border=true"
           alt="NoiceFrog :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoiceFrog&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anAndjel&theme=gruvbox&layout=compact&hide_border=true"
           alt="NoiceFrog :: Top Langs by commit" />
           </a>
         </p>
@@ -68,9 +68,9 @@ alex@archbtw:~$ neofetch
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/NoiceFrog/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NoiceFrog&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoiceFrog&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/anAndjel/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=anAndjel&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anAndjel&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -84,7 +84,7 @@ alex@archbtw:~$ neofetch
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NoiceFrog&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=anAndjel&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
